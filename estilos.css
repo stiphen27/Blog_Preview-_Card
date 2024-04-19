@@ -1,0 +1,67 @@
+html{
+    width: 1440px;
+    background-color: hsl(47, 88%, 63%);
+}
+.contenedor{
+    background-color: white;
+    margin: 100px 475px;
+    border-radius: 20px;
+    text-align: left;
+    padding: 10px;
+    height: 550px;
+}
+.ilustration{
+    text-align: center ;
+    border-radius: 10px;
+    width: 95%;
+    margin: 10px;
+}
+.learning{
+  
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  background-color: hsl(47, 88%, 63%);
+  padding: 5px;
+  margin: 4px;
+  width: 80px;
+  border-radius: 10px;
+  text-align: center    ;
+}
+.parrafo1{
+    font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 16px;
+}
+
+.parrafo2{
+    font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;   
+  text-align: left;
+  color: hsl(0, 0%, 50%);
+  font-size: 18px;
+}
+
+h1{
+    font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+.greg{
+    font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+  display: flex;
+  justify-content: flex-start; 
+} 
+.greg img{
+    width: 50px;
+}
